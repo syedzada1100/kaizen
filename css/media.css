@@ -1,0 +1,201 @@
+@media screen and (max-width:768px) {
+    .abc h1 {
+        font-size: 40px;
+    }
+
+    .abc h4 {
+        font-size: 20px;
+    }
+
+    .hed img {
+        width: 350px;
+        margin: 60px 0px 0px 0px;
+    }
+
+    .row1 h2 {
+        padding-top: 30px;
+    }
+
+    .talk {
+        margin-top: 10%;
+    }
+
+    .row6-col h2 {
+        margin-top: 20%;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .hed img {
+        margin: 0px 15%;
+    }
+
+    .gallery {
+        margin-top: -50px;
+    }
+
+    .row5 img {
+        padding: 20px;
+    }
+
+    .row6-col2 {
+        padding: 50px 0px 0px 0px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .hed img {
+        margin: 0px 10%;
+    }
+
+    .gallery h3 {
+        padding: 80px 60px;
+        text-align: left;
+    }
+
+    .row1 img {
+        height: 350px;
+    }
+
+    .row1 .para,
+    .row2 p {
+        font-size: 18px;
+    }
+
+    .row2 h2 {
+        font-size: 38px;
+    }
+
+    .row5 img {
+        padding: 80px;
+    }
+
+    .row6-col h2 {
+        margin-top: 30%;
+    }
+
+    .row6-col2 h2 {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .logo {
+        width: 150px;
+    }
+
+    .abc {
+        margin-top: 50px;
+    }
+
+    .abc h4,
+    .row7 h3 {
+        font-size: 18px;
+    }
+
+    .abc h1 {
+        font-size: 35px;
+    }
+
+    .row1 h2,
+    .row3 h3 {
+        font-size: 30px;
+    }
+
+    .row4 h2,
+    .testi h3 {
+        font-size: 28px;
+    }
+
+    .btn-lg,
+    .row6-col2 .tick p {
+        font-size: 15px;
+    }
+
+    .hed img,
+    .row6 {
+        margin: 0px;
+    }
+
+    .hed img {
+        width: 320px;
+    }
+
+    .gallery h3 {
+        padding: 80px 0px 0px 0px;
+        text-align: center;
+    }
+
+    .row1 img {
+        height: 280px;
+    }
+
+    .row2 h2,
+    .row6-col2 h2 {
+        font-size: 32px;
+    }
+
+    .row3 .cara p {
+        font-size: 17px;
+    }
+
+    .row5 img {
+        padding: 50px;
+    }
+
+    .row6-col h2 {
+        font-size: 70px;
+        margin-top: 40%;
+    }
+
+    .row6-col2 .tick i {
+        padding: 10px;
+    }
+
+    .row7 h2,
+    .row8 h3 {
+        font-size: 28px;
+        text-align: left;
+    }
+
+    .row7 h3 {
+        text-align: left;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .logo {
+        width: 120px;
+    }
+
+    .abc h4,
+    .row1 .para,
+    .row3 .cara p {
+        font-size: 16px;
+    }
+
+    .btn-lg {
+        font-size: 12px;
+    }
+
+    .hed img {
+        width: 300px;
+        margin-top: 50px;
+    }
+
+    .row1 img {
+        height: 250px;
+    }
+
+    .row4 .row4-col p {
+        padding: 0px 25px;
+    }
+
+    .row6-col2 .tick i {
+        padding: 6px;
+    }
+
+    .hed img {
+        width: 290px;
+    }
+}

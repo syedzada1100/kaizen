@@ -1,0 +1,491 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background: none;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.head {
+    width: 100%;
+    height: 700px;
+    background: #0363FF;
+}
+
+.logo {
+    width: 180px;
+    padding: 20px 0px;
+}
+
+.nab ul li {
+    padding: 0px 15px;
+}
+
+.nab ul li a {
+    font-family: Arial;
+    font-size: 18px;
+    color: #fff !important;
+}
+
+.nab ul li a:hover {
+    color: #e0a800 !important;
+}
+
+.nac .dropdown-menu a {
+    font-family: Arial;
+    font-size: 15px;
+    color: #000 !important;
+}
+
+.abc {
+    margin-top: 100px;
+}
+
+.abc h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+.abc h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: #fff;
+}
+
+.abc button {
+    margin-top: 10px;
+}
+
+.hed img {
+    width: 500px;
+    margin: 60px 0px 0px 40px;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(images/drop-down-menu.png) !important;
+}
+
+.gallery {
+    margin-top: -100px;
+}
+
+.back,
+.back2,
+.back3,
+.back4,
+.back5,
+.back6,
+.back7,
+.back8 {
+    width: 100%;
+    height: 220px;
+    background: url(images/csd.png) no-repeat left top;
+}
+
+.back2 {
+    background: url(images/amd.png) no-repeat left top;
+}
+
+.back3 {
+    background: url(images/iad.png) no-repeat left top;
+}
+
+.back4 {
+    background: url(images/cphd.png) no-repeat left top;
+}
+
+.back5 {
+    background: url(images/cmsd.png) no-repeat left top;
+}
+
+.back6 {
+    background: url(images/wcd.png) no-repeat left top;
+}
+
+.back7 {
+    background: url(images/ecd.png) no-repeat left top;
+}
+
+.back8 {
+    background: url(images/wba.png) no-repeat left top;
+}
+
+.gallery h3,
+.row7 h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.row1 {
+    margin-top: 100px;
+}
+
+.row1 img {
+    width: 100%;
+    height: 440px;
+    border-bottom-left-radius: 80px;
+    border-top-right-radius: 80px;
+}
+
+.row1 label {
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    color: #00A4E3;
+    border-bottom: 1px solid #d2cfcf;
+    padding: 10px 0px;
+}
+
+.row1 h2,
+.row2 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    color: #00A4E3;
+    font-weight: bold;
+}
+
+.row1 .para,
+.row2 p {
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.row2 {
+    width: 100%;
+    /* height: 700px; */
+    background: url(images/parallax-2.jpg) no-repeat left top;
+    background-size: cover;
+    margin-top: 100px;
+    padding: 30px 0px;
+}
+
+.row2 h2 {
+    color: #fff;
+    font-size: 45px;
+    padding-top: 60px;
+}
+
+.row2 p {
+    color: #e1d1b8;
+}
+
+.row2 span {
+    padding: 15px 30px;
+    background: #1F1F1F;
+    color: #fff;
+    display: inline-block;
+    margin: 8px 5px 0px 0px;
+    transition: all linear 200ms;
+}
+
+.row2 span:hover {
+    transform: translateY(-0.25em);
+}
+
+.talk {
+    width: 100%;
+    text-align: center;
+    margin-top: 30%;
+}
+
+.talk button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #1F1F1F;
+    color: #fff;
+    transition: all linear 200ms;
+    border-bottom: 2px solid #e0a800;
+}
+
+.talk button:hover {
+    transform: translateY(-1.0em);
+    box-shadow: 0px 0px 100px #fff;
+    background: #e0a800;
+}
+
+.row3 h3,
+.row4 h2,
+.testi h3 {
+    font-family: Arial;
+    font-size: 40px;
+    color: #00A4E3;
+    text-align: center;
+    font-weight: bold;
+    padding: 40px 0px;
+}
+
+.cara {
+    width: 100%;
+    height: 350px;
+    padding: 100px 0px 0px 0px;
+}
+
+.row3 .cara h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: #ffbf00;
+    padding-bottom: 20px;
+}
+
+.row3 .cara p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #fff;
+    text-align: justify;
+    margin: auto;
+}
+
+.owl-nav {
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+}
+
+.bg {
+    width: 100%;
+    /* height: 450px; */
+    background: url(images/build_bg.jpg) no-repeat left top;
+    background-size: cover;
+}
+
+.row4,
+.row5 {
+    text-align: center;
+}
+
+.row4 .row4-col {
+    padding: 40px 0px;
+}
+
+.row4 .row4-col img {
+    background: #20A8DC;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.row4 h4,
+.testi h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e0a800;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.row4 h2 {
+    padding: 0px;
+}
+
+.row4 p,
+.row4 .row4-col p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #828282;
+}
+
+.row4 h3,
+.row5 h3 {
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.row4 .row4-col p {
+    padding: 0px 50px;
+}
+
+.row5 {
+    width: 100%;
+    background: #0363FF;
+    margin-top: 30px;
+}
+
+.row5 h3 {
+    color: #fff;
+    font-size: 25px;
+    padding: 30px 0px 25px 0px;
+}
+
+.row5 img {
+    padding: 50px;
+}
+
+.row6 {
+    width: 100%;
+    background: url(images/reason_bg.png) no-repeat left top;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.row6-col h2 {
+    font-family: Impact;
+    color: #fff;
+    font-size: 100px;
+    font-weight: normal;
+    background-image: url(images/text-background-2.png);
+    background-size: 100% 100%;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin-top: 40%;
+}
+
+.row6-col2 {
+    width: 100%;
+    padding: 100px 0px 0px 0px;
+}
+
+.row6-col2 h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: #fff;
+
+}
+
+.row6-col2 .para2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 0px;
+    font-weight: normal;
+}
+
+.tick {
+    width: 100%;
+    display: inline-block;
+    padding: 20px 0px;
+}
+
+.row6-col2 .tick i {
+    background: #FD7F00;
+    padding: 15px;
+    color: #fff;
+    border-radius: 50%;
+    float: left;
+}
+
+.row6-col2 .tick p {
+    width: 87.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    float: right;
+    margin: 0px;
+    font-weight: normal;
+}
+
+.testi {
+    width: 100%;
+    background: url(images/background-3.jpg) no-repeat left top;
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+}
+
+.testi h3 {
+    padding: 20px 0px 0px 0px;
+}
+
+.testi h4 {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.row7 {
+    width: 100%;
+    background: url(images/parallax-2.png) no-repeat left top;
+    background-size: cover;
+}
+
+.row7 h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #007BFF;
+    text-align: center;
+}
+
+.row7 h2 {
+    color: #d8d6d6;
+}
+
+.card {
+    background: transparent !important;
+}
+
+.row7 label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color: #fff;
+}
+
+.row8 {
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.row8 h3 {
+    font-family: Arial;
+    font-size: 30px;
+    color: #00A4E3;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.row9 {
+    width: 100%;
+    background: #0363FF;
+    background-size: cover;
+}
+
+.row9 .row9-col {
+    padding-top: 100px;
+}
+
+.row9 img {
+    width: 150px;
+    padding-bottom: 20px;
+}
+
+.row9 h3,
+.row9 .row9-col ul li a {
+    color: #fff;
+}
+
+.row9 h4 {
+    font-size: 17px;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.row9 i {
+    padding: 20px 18px 0px 0px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.row9 .row9-col ul li {
+    padding: 5px 0px;
+}
+
+.row9 .row9-col ul li a {
+    text-decoration: none;
+}
+
+.row9 .row9-col ul li a:hover {
+    color: #e0a800;
+}
+
+.line h4 {
+    font-family: Arial;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0px;
+}
